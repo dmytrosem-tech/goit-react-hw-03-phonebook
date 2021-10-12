@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d67c3b0b.chunk.css",
-    "main.js": "/static/js/main.b8d6b097.chunk.js",
-    "main.js.map": "/static/js/main.b8d6b097.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0400b470.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0400b470.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.6708ded8.chunk.js": "/static/js/2.6708ded8.chunk.js",
-    "static/js/2.6708ded8.chunk.js.map": "/static/js/2.6708ded8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.d67c3b0b.chunk.css.map": "/static/css/main.d67c3b0b.chunk.css.map",
-    "static/js/2.6708ded8.chunk.js.LICENSE.txt": "/static/js/2.6708ded8.chunk.js.LICENSE.txt"
+    "main.css": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/css/main.d67c3b0b.chunk.css",
+    "main.js": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/main.b8d6b097.chunk.js",
+    "main.js.map": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/main.b8d6b097.chunk.js.map",
+    "runtime-main.js": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/runtime-main.c4c25878.js",
+    "runtime-main.js.map": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/runtime-main.c4c25878.js.map",
+    "static/css/2.bc922b9c.chunk.css": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.6708ded8.chunk.js": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/2.6708ded8.chunk.js",
+    "static/js/2.6708ded8.chunk.js.map": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/2.6708ded8.chunk.js.map",
+    "index.html": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.d67c3b0b.chunk.css.map": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/css/main.d67c3b0b.chunk.css.map",
+    "static/js/2.6708ded8.chunk.js.LICENSE.txt": "//dmytrosem-tech.github.io/goit-react-hw-03-phonebook/static/js/2.6708ded8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0400b470.js",
+    "static/js/runtime-main.c4c25878.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.6708ded8.chunk.js",
     "static/css/main.d67c3b0b.chunk.css",
